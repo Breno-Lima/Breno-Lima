@@ -1,7 +1,30 @@
-- 👋 Hi, I’m @Breno-Lima
-- 👀 Procuro aprender mais de programação e passar o conhecimento que tenho para outras pessoas.
-- 🌱 Atualmente estou focado em Java e Python.
-- 📚 Estou cursando o  2° período de Ciência da Computação na UFPB.
-- 📫 Pretendo trabalhar com desenvolvimento web ou de jogos.
+# Welcome!
+
+ 
+
+## I'm Breno!
+
+ 
+
+:computer: I'm Front-End Developer!
+
+:house_with_garden: I’m from Brazil.
+
+:books: I’m currently learning everything.
+
+:outbox_tray: 2021 Goals: create a new project and find a new job.
+
+[![Breno-Lima GitHub stats](https://github-readme-stats.vercel.app/api?username=Breno-Lima)](https://github.com/Breno-Lima/github-readme-stats)
+
+
+## About me
+
+
+
+- Thanks for visiting.
+
+
+----------------------------------------------------------------------------------
+
 
 
