@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **C# .Net**
 
-- 📫 How to reach me **brenohslima@gmai.com**
+- 📫 How to reach me **brenohslima@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
