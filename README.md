@@ -9,7 +9,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **Go beesiness**
+ 🔭 I’m currently working on **Jb Mídia**
  
  🌱 I’m currently learning more about **React**
 
